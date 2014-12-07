@@ -12,7 +12,7 @@ except ImportError:
 
 
 info = dict(
-  metadata     = dict(name="audio", version="1.3.0"),
+  metadata     = dict(name="audio", version="1.4.0"),
   code         = {},
   data         = {},
   requirements = dict(install_requires=
@@ -23,6 +23,7 @@ info = dict(
                     "audio.frames"    ,
                     "audio.index"     ,
                     "audio.io"        ,
+                    "audio.lp"        ,
                     "audio.quantizers",
                     "audio.shrink"    , 
                     "audio.wave"      ,
