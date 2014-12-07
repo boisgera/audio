@@ -64,7 +64,7 @@ some dependencies still need to be manually installed beforehand:
 
      On Ubuntu, install NLTK with:
 
-         $ sudo apt-get install python-ntlk
+         $ sudo apt-get install python-nltk
 
      and then the TIMIT corpus with:
 
