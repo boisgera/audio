@@ -39,7 +39,7 @@ some dependencies still need to be manually installed beforehand:
 
      [pip]: https://pip.pypa.io/en/latest/index.html
 
-  2. **[NumPy][NumPy] -- Numerical Python.** 
+  2. **[NumPy] -- Numerical Python.** 
      Unless you know what you are doing, use existing binary packages.
 
      On Ubuntu:
@@ -48,8 +48,8 @@ some dependencies still need to be manually installed beforehand:
 
      [Numpy]: http://www.numpy.org/
 
-  3. **[PyAudio][PyAudio] -- Python bindings for PortAudio.**
-     Refer to [PyAudio][] for general installation instructions.
+  3. **[PyAudio] -- Python bindings for PortAudio.**
+     Refer to [PyAudio] for general installation instructions.
 
      On Ubuntu:
 
@@ -57,7 +57,7 @@ some dependencies still need to be manually installed beforehand:
 
      [PyAudio]: http://people.csail.mit.edu/hubert/pyaudio/
 
-  4. **[NLTK][NLTK] and [TIMIT][TIMIT] -- Natural Language Toolkit & Acoustic-Phonetic Speech Corpus**
+  4. **[NLTK] and [TIMIT] -- Natural Language Toolkit & Acoustic-Phonetic Speech Corpus**
 
      Detailled NLTK installation instructions are available [here][NLTK-install]. 
      TIMIT is an extra corpus that be installed separately, see [here][NLTK-install-data].
